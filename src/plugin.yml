@@ -1,0 +1,10 @@
+name: CommandRunner
+description: CommandRunner
+main: com.connorlinfoot.commandrunner.Main
+version: 1.0
+commands:
+  run:
+    description: Use command runner
+permissions:
+  commandrunner.use:
+    default: op
